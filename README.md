@@ -81,6 +81,21 @@ Secure API routes with JWT and environment-based configurations.
 ✅ Plan-based job posting & application limits
 ✅ Deployed on AWS for reliability and scalability
 
+## 📸 Dashboard Previews
+
+<p align="center">
+  <span style="display:inline-block; text-align:center; width:45%;">
+    <strong>🧑‍💼 Admin Dashboard</strong><br/>
+    <img src="https://github.com/Bgtbala/Vaidyog/blob/main/vaiydogScreenshots/adminDashboard.png?raw=true" alt="Admin Dashboard" width="100%"/>
+  </span>
+  &nbsp;&nbsp;
+  <span style="display:inline-block; text-align:center; width:45%;">
+    <strong>👨‍⚕️ Job Search (User View)</strong><br/>
+    <img src="https://github.com/Bgtbala/Vaidyog/blob/main/vaiydogScreenshots/JobSearch-User.png?raw=true" alt="Job Search - User" width="100%"/>
+  </span>
+</p>
+
+
 🌐 Deployment
 
 Frontend: Deployed on AWS EC2, served via Nginx
